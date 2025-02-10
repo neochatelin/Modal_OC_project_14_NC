@@ -1,16 +1,22 @@
 {
-  "name": "react-rails-pagination",
+  "name": "Modal_OC_project_14_NC",
   "version": "1.0.0",
   "description": "Made with create-react-library",
   "author": "neochatelin",
   "license": "MIT",
-  "repository": "neochatelin/react-rails-pagination",
+  "repository": "neochatelin/Modal_OC_project_14_NC",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "react",
+    "react-component",
+    "pagination"
+  ],
+  "homepage": "https://github.com/neochatelin/Modal_OC_project_14_NC",
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
