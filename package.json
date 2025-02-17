@@ -1,6 +1,6 @@
 {
-  "name": "Modal_OC_project_14_NC",
-  "version": "1.0.0",
+  "name": "modal_oc_project_14_nc",
+  "version": "1.0.2",
   "description": "Made with create-react-library",
   "author": "neochatelin",
   "license": "MIT",
@@ -30,7 +30,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^19.0.0"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.10",
@@ -49,9 +49,9 @@
     "gh-pages": "^2.2.0",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.0.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1"
   },
   "files": [
     "dist"
